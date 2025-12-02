@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gray-50: #f9fafb;
+  --color-gray-900: #111827;
+}
+
+/* Custom styles if needed */
+body {
+  background-color: var(--color-gray-50);
+  color: var(--color-gray-900);
+}
